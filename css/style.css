@@ -391,7 +391,7 @@ address {
 .portfolio-work-list {
   display: flex;
   flex-wrap: wrap;
-  width: 1600px;
+  width: 1600;
   margin-left: auto;
   margin-right: auto;
   padding: 0;
